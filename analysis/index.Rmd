@@ -10,8 +10,7 @@ editor_options:
   
   
 # Welcome to Patrick Haller's research website  
-## *PhD student in Biochemistry and Molecular Biophysics*
-## *University of Chicago*
+
 
 
 
