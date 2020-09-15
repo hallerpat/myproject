@@ -7,5 +7,9 @@ output:
 editor_options:
   chunk_output_type: console
 ---
+  
+  
+# Welcome to Patrick Haller's research website  
+## *PhD student in Biochemistry and Molecular Biophysics*
+## *University of Chicago*
 
-Welcome to my research website.
